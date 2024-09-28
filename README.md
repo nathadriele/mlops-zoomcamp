@@ -2,6 +2,8 @@
 
 [More details](https://github.com/DataTalksClub/mlops-zoomcamp)
 
+![image](https://github.com/user-attachments/assets/0509c5c9-e854-4adc-b33f-b0fce23892c6)
+
 ## 1. Introduction
 - 1.1 What is MLOps
 - 1.2 MLOps maturity model
