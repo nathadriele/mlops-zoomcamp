@@ -2,6 +2,10 @@
 
 [More details](https://github.com/DataTalksClub/mlops-zoomcamp)
 
+🟢 **Final project developed**
+
+https://github.com/nathadriele/vercel-app-mlops-zoomcamp-project-paris-price-house
+
 ![image](https://github.com/user-attachments/assets/0509c5c9-e854-4adc-b33f-b0fce23892c6)
 
 ## 1. Introduction
